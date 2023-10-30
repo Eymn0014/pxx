@@ -1,0 +1,44 @@
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459W1hyzbi-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459Wdhyzbi-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459Wlhyw-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459WRhyzbi-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\s\montserrat\v12\JTUSjIg1_i6t8kCHKm459WZhyzbi-1.woff2
+Content Type: font/woff2
+
+Uri: https://pixelplanet.fun/
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\index-1.htm
+Content Type: text/html
+
+Uri: https://pixelplanet.fun/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\apple-touch-icon-1.png
+Content Type: image/png
+
+Uri: https://pixelplanet.fun/assets/client-tr.659e8f9a.js
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\assets\client-tr.659e8f9a-1.js
+Content Type: application/javascript
+
+Uri: https://pixelplanet.fun/assets/default.acaa4afe.css
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\assets\default.acaa4afe-1.css
+Content Type: text/css
+
+Uri: https://pixelplanet.fun/assets/vendor.974dc439.js
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\assets\vendor.974dc439-1.js
+Content Type: application/javascript
+
+Uri: https://pixelplanet.fun/favicon.ico
+File Name: C:\Downloaded Web Sites\pixelplanet.fun\favicon-1.ico
+Content Type: image/x-icon
+
